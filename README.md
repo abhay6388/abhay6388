@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @abhay6388
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
-
-<!---
-abhay6388/abhay6388 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+SKILLS                    
+C#
+ASP.NET CORE
+MVC
+ETITY FRAMEWORK
+JAVA
+JAVASCRIPT 
+CSS
+BOOTSTRAP
+REACT
+HTML5
